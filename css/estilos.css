@@ -8,3 +8,9 @@ h1{
 p{
 	size: 10px;
 }
+
+body{
+	background-color: gray;
+	padding: 10px;
+
+}
